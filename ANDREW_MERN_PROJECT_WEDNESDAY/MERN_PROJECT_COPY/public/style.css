@@ -1,0 +1,75 @@
+body{
+    font-family: "Calibri", "Helvetica", "Arial";
+}
+
+#domMain{
+	background-color: #EDEDED;
+ 	min-height: 100vh;
+ }
+
+ .bugtrack-main{
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+/*---bug cards-*/
+
+.bug-card{
+
+}
+.bug-card-right{
+	font-size: 12px;
+    color: grey;
+    font-weight: 400;
+}
+
+.hp-Img{
+	width: 2em;
+	height: auto;
+}
+
+.bug-card-left{
+/*	border-right: 1px solid #000;
+*/}
+
+.bugtrack-h1{
+	justify-content: center;
+    color: red;
+    font-family: helvetica;
+    font-weight: bold;
+}
+
+.bugtrack-banner{
+	justify-content: center;
+}
+
+.bugtrack-body  .card-header{
+	font-weight: bold;
+    height: 1.5em;
+    display: flex;
+    align-items: center;
+}
+
+.bug-card .bug-collapse{
+	width: 5em;
+}
+
+.bug-expand{
+    margin: 1em;
+}
+
+.bug-card-collapsible .card-block{
+    height: 1em;
+}
+
+/*------*/
+.edit-link{
+    font-size: 14px;
+    color: grey;
+    font-weight: 700;
+}
+
+.edit-main .head{
+	margin-bottom: 1em;
+	margin-top: 1em;
+}

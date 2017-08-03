@@ -1,0 +1,16 @@
+editing: 
+- create edit info form for each bug.
+- action tracker: stores all actions performed on bug (in db) and user who carried them out.
+
+filtering:
+- filter or advanced search options.
+- validate inputs 
+- options to save filtered search + clear all selected data.
+
+documentation: 
+- explain...
+
+stretch:
+- search functionality. limit bugs returned to those matching search terms.
+- bugs update on each key stroke (react)
+- sorting: sortable list by column heading. i.e. a-z 
