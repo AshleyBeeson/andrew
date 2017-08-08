@@ -27,6 +27,7 @@ For example: C:\>mongodb\bin\mongoimport.exe -d projectdb -c bugs "C:\Users\Admi
 - After the node_modules are installed: within "MERN_PROJECT" type:
 - 'webpack' and 'npm start' to start the express server and build the website!
 
+5. Go to localhost:8084/Bugtracker in your browser and the site will appear.
 
 
 Notes:
